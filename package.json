@@ -1,0 +1,17 @@
+{
+  "name": "valet",
+  "version": "1.0.0",
+  "description": "TITLE:  Valet - Fully Responsive Free HTML5 template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.6.0",
+    "angular": "1.5.x",
+    "bootstrap": "3.3.x"
+  }
+}
